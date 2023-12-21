@@ -18,12 +18,16 @@ My **research goals** for my students are to feel excited and empowered to:
 ## Installation
 *For W&M research students; in progress*
 
-## Optional content before and after this course
+## Optional content before, during, and after this course
 
 ### Before
 Not sure you're comfortable with Python? (or Git? or bash?). CU Boulder [EarthLab]() is a resource for analyzing Earth data with open-source Python and would make an excellent companion to the material in this course. Their [Introduction to Earth Data Science](https://www.earthdatascience.org/courses/intro-to-earth-data-science/) textbook goes over most of the basics of Python, version control with `git`, and common packages like `numpy` and `pandas`. 
 
 After you work through this course you might want to review their [Earth Analytics Python Course](https://www.earthdatascience.org/courses/earth-analytics-python//), which has overlap with the material in this repo. 
+
+## During
+There are, in fact, myriad resources for learning to work with geospatial data in Python. A non-exhaustive list is here:
+- [Geocomputation with Python](https://py.geocompx.org/) textbook, which can be run in GitHub Codespaces. 
 
 ### After
 Ready to supercharge your work with geospatial data? 
